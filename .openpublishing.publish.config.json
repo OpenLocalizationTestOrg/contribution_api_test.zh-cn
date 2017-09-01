@@ -22,7 +22,7 @@
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "contribution_branch_mappings": {
-    "live-sxs": "live"
+    "live-sxs": "live1"
   },
   "dependent_repositories": [
     {
