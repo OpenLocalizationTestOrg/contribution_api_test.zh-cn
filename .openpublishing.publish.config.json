@@ -21,7 +21,9 @@
   "branches_to_filter": [],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
-  "contribution_branch_mappings": {},
+  "contribution_branch_mappings": {
+    "live-sxs": "live"
+  },
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -39,5 +41,6 @@
       }
     }
   ],
+  "branch_target_mapping": {},
   "need_generate_pdf_url_template": false
 }
